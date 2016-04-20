@@ -440,9 +440,9 @@
    <widget class="QLabel" name="tituloSencillo">
     <property name="geometry">
      <rect>
-      <x>30</x>
+      <x>20</x>
       <y>20</y>
-      <width>301</width>
+      <width>311</width>
       <height>41</height>
      </rect>
     </property>
@@ -454,7 +454,7 @@
      </font>
     </property>
     <property name="text">
-     <string>Algoritmo sencillo</string>
+     <string>Algoritmo de ordenación</string>
     </property>
    </widget>
    <widget class="QLabel" name="tituloImagenes">
@@ -878,7 +878,7 @@
      <x>0</x>
      <y>0</y>
      <width>1141</width>
-     <height>23</height>
+     <height>21</height>
     </rect>
    </property>
   </widget>
