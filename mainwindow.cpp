@@ -187,4 +187,3 @@ void MainWindow::on_selectFileButton_clicked()
         file.close();
     }
 }
-
