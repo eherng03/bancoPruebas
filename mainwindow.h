@@ -24,10 +24,6 @@ public:
     ~MainWindow();
     void algoritmoSencillo();
     void algoritmoFoto();
-    void setImagen(QImage foto);
-    QImage getImagen();
-    void setImagenDespues(QImage foto);
-    QImage getImagenDespues();
     std::ifstream ficheroEntrada;
     std::vector<std::string> listaPalabras;
 
@@ -35,13 +31,11 @@ public:
 private slots:
     void on_runButton_clicked();
 
-    void on_pushButton_2_clicked();
-
     void on_selectImage_clicked();
 
     void on_selectFileButton_clicked();
 
-    void on_chargutton_clicked();
+    void on_runButton2_clicked();
 
 private:
     Ui::MainWindow *ui;
@@ -49,7 +43,14 @@ private:
     std::string timesFoto;
     QImage imagenAntes;
     QImage imagenDespues;
-    QFile file;
+    QString text;
+    bool hayImagenCargada;
+    int contadorFicheros;
+    int contadorImagenes;
+    double tiemposPasadosSencillo;
+    double tiemposPasadosComplejo;
+    double mediaSencillo;
+    double mediaComplejo;
 
 };
 
