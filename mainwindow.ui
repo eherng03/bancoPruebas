@@ -24,16 +24,16 @@
      </colorrole>
      <colorrole role="Button">
       <brush brushstyle="SolidPattern">
-       <color alpha="255">
-        <red>204</red>
-        <green>232</green>
-        <blue>230</blue>
+       <color alpha="251">
+        <red>199</red>
+        <green>228</green>
+        <blue>223</blue>
        </color>
       </brush>
      </colorrole>
      <colorrole role="Light">
       <brush brushstyle="SolidPattern">
-       <color alpha="255">
+       <color alpha="251">
         <red>255</red>
         <green>255</green>
         <blue>255</blue>
@@ -42,28 +42,28 @@
      </colorrole>
      <colorrole role="Midlight">
       <brush brushstyle="SolidPattern">
-       <color alpha="255">
-        <red>229</red>
-        <green>243</green>
-        <blue>242</blue>
+       <color alpha="251">
+        <red>227</red>
+        <green>241</green>
+        <blue>239</blue>
        </color>
       </brush>
      </colorrole>
      <colorrole role="Dark">
       <brush brushstyle="SolidPattern">
-       <color alpha="255">
-        <red>102</red>
-        <green>116</green>
-        <blue>115</blue>
+       <color alpha="251">
+        <red>99</red>
+        <green>114</green>
+        <blue>111</blue>
        </color>
       </brush>
      </colorrole>
      <colorrole role="Mid">
       <brush brushstyle="SolidPattern">
-       <color alpha="255">
-        <red>136</red>
-        <green>155</green>
-        <blue>153</blue>
+       <color alpha="251">
+        <red>133</red>
+        <green>152</green>
+        <blue>149</blue>
        </color>
       </brush>
      </colorrole>
@@ -105,10 +105,10 @@
      </colorrole>
      <colorrole role="Window">
       <brush brushstyle="SolidPattern">
-       <color alpha="255">
-        <red>204</red>
-        <green>232</green>
-        <blue>230</blue>
+       <color alpha="251">
+        <red>199</red>
+        <green>228</green>
+        <blue>223</blue>
        </color>
       </brush>
      </colorrole>
@@ -123,10 +123,10 @@
      </colorrole>
      <colorrole role="AlternateBase">
       <brush brushstyle="SolidPattern">
-       <color alpha="255">
-        <red>229</red>
-        <green>243</green>
-        <blue>242</blue>
+       <color alpha="253">
+        <red>227</red>
+        <green>241</green>
+        <blue>239</blue>
        </color>
       </brush>
      </colorrole>
@@ -161,16 +161,16 @@
      </colorrole>
      <colorrole role="Button">
       <brush brushstyle="SolidPattern">
-       <color alpha="255">
-        <red>204</red>
-        <green>232</green>
-        <blue>230</blue>
+       <color alpha="251">
+        <red>199</red>
+        <green>228</green>
+        <blue>223</blue>
        </color>
       </brush>
      </colorrole>
      <colorrole role="Light">
       <brush brushstyle="SolidPattern">
-       <color alpha="255">
+       <color alpha="251">
         <red>255</red>
         <green>255</green>
         <blue>255</blue>
@@ -179,28 +179,28 @@
      </colorrole>
      <colorrole role="Midlight">
       <brush brushstyle="SolidPattern">
-       <color alpha="255">
-        <red>229</red>
-        <green>243</green>
-        <blue>242</blue>
+       <color alpha="251">
+        <red>227</red>
+        <green>241</green>
+        <blue>239</blue>
        </color>
       </brush>
      </colorrole>
      <colorrole role="Dark">
       <brush brushstyle="SolidPattern">
-       <color alpha="255">
-        <red>102</red>
-        <green>116</green>
-        <blue>115</blue>
+       <color alpha="251">
+        <red>99</red>
+        <green>114</green>
+        <blue>111</blue>
        </color>
       </brush>
      </colorrole>
      <colorrole role="Mid">
       <brush brushstyle="SolidPattern">
-       <color alpha="255">
-        <red>136</red>
-        <green>155</green>
-        <blue>153</blue>
+       <color alpha="251">
+        <red>133</red>
+        <green>152</green>
+        <blue>149</blue>
        </color>
       </brush>
      </colorrole>
@@ -242,10 +242,10 @@
      </colorrole>
      <colorrole role="Window">
       <brush brushstyle="SolidPattern">
-       <color alpha="255">
-        <red>204</red>
-        <green>232</green>
-        <blue>230</blue>
+       <color alpha="251">
+        <red>199</red>
+        <green>228</green>
+        <blue>223</blue>
        </color>
       </brush>
      </colorrole>
@@ -260,10 +260,10 @@
      </colorrole>
      <colorrole role="AlternateBase">
       <brush brushstyle="SolidPattern">
-       <color alpha="255">
-        <red>229</red>
-        <green>243</green>
-        <blue>242</blue>
+       <color alpha="253">
+        <red>227</red>
+        <green>241</green>
+        <blue>239</blue>
        </color>
       </brush>
      </colorrole>
@@ -289,25 +289,25 @@
     <disabled>
      <colorrole role="WindowText">
       <brush brushstyle="SolidPattern">
-       <color alpha="255">
-        <red>102</red>
-        <green>116</green>
-        <blue>115</blue>
+       <color alpha="251">
+        <red>99</red>
+        <green>114</green>
+        <blue>111</blue>
        </color>
       </brush>
      </colorrole>
      <colorrole role="Button">
       <brush brushstyle="SolidPattern">
-       <color alpha="255">
-        <red>204</red>
-        <green>232</green>
-        <blue>230</blue>
+       <color alpha="251">
+        <red>199</red>
+        <green>228</green>
+        <blue>223</blue>
        </color>
       </brush>
      </colorrole>
      <colorrole role="Light">
       <brush brushstyle="SolidPattern">
-       <color alpha="255">
+       <color alpha="251">
         <red>255</red>
         <green>255</green>
         <blue>255</blue>
@@ -316,37 +316,37 @@
      </colorrole>
      <colorrole role="Midlight">
       <brush brushstyle="SolidPattern">
-       <color alpha="255">
-        <red>229</red>
-        <green>243</green>
-        <blue>242</blue>
+       <color alpha="251">
+        <red>227</red>
+        <green>241</green>
+        <blue>239</blue>
        </color>
       </brush>
      </colorrole>
      <colorrole role="Dark">
       <brush brushstyle="SolidPattern">
-       <color alpha="255">
-        <red>102</red>
-        <green>116</green>
-        <blue>115</blue>
+       <color alpha="251">
+        <red>99</red>
+        <green>114</green>
+        <blue>111</blue>
        </color>
       </brush>
      </colorrole>
      <colorrole role="Mid">
       <brush brushstyle="SolidPattern">
-       <color alpha="255">
-        <red>136</red>
-        <green>155</green>
-        <blue>153</blue>
+       <color alpha="251">
+        <red>133</red>
+        <green>152</green>
+        <blue>149</blue>
        </color>
       </brush>
      </colorrole>
      <colorrole role="Text">
       <brush brushstyle="SolidPattern">
-       <color alpha="255">
-        <red>102</red>
-        <green>116</green>
-        <blue>115</blue>
+       <color alpha="251">
+        <red>99</red>
+        <green>114</green>
+        <blue>111</blue>
        </color>
       </brush>
      </colorrole>
@@ -361,28 +361,28 @@
      </colorrole>
      <colorrole role="ButtonText">
       <brush brushstyle="SolidPattern">
-       <color alpha="255">
-        <red>102</red>
-        <green>116</green>
-        <blue>115</blue>
+       <color alpha="251">
+        <red>99</red>
+        <green>114</green>
+        <blue>111</blue>
        </color>
       </brush>
      </colorrole>
      <colorrole role="Base">
       <brush brushstyle="SolidPattern">
-       <color alpha="255">
-        <red>204</red>
-        <green>232</green>
-        <blue>230</blue>
+       <color alpha="251">
+        <red>199</red>
+        <green>228</green>
+        <blue>223</blue>
        </color>
       </brush>
      </colorrole>
      <colorrole role="Window">
       <brush brushstyle="SolidPattern">
-       <color alpha="255">
-        <red>204</red>
-        <green>232</green>
-        <blue>230</blue>
+       <color alpha="251">
+        <red>199</red>
+        <green>228</green>
+        <blue>223</blue>
        </color>
       </brush>
      </colorrole>
@@ -397,10 +397,10 @@
      </colorrole>
      <colorrole role="AlternateBase">
       <brush brushstyle="SolidPattern">
-       <color alpha="255">
-        <red>204</red>
-        <green>232</green>
-        <blue>230</blue>
+       <color alpha="251">
+        <red>199</red>
+        <green>228</green>
+        <blue>223</blue>
        </color>
       </brush>
      </colorrole>
@@ -425,6 +425,11 @@
     </disabled>
    </palette>
   </property>
+  <property name="font">
+   <font>
+    <family>Rockwell Nova</family>
+   </font>
+  </property>
   <property name="windowTitle">
    <string>BenchMarks</string>
   </property>
@@ -443,7 +448,7 @@
     </property>
     <property name="font">
      <font>
-      <family>Segoe Script</family>
+      <family>Rockwell Nova</family>
       <pointsize>22</pointsize>
       <underline>true</underline>
      </font>
@@ -463,8 +468,8 @@
     </property>
     <property name="font">
      <font>
-      <family>Segoe Script</family>
-      <pointsize>22</pointsize>
+      <family>Rockwell</family>
+      <pointsize>24</pointsize>
       <underline>true</underline>
      </font>
     </property>
@@ -475,14 +480,22 @@
    <widget class="QLabel" name="descripcion">
     <property name="geometry">
      <rect>
-      <x>60</x>
+      <x>40</x>
       <y>70</y>
-      <width>231</width>
+      <width>251</width>
       <height>81</height>
      </rect>
     </property>
+    <property name="font">
+     <font>
+      <family>Rockwell Nova</family>
+     </font>
+    </property>
     <property name="text">
-     <string>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;El siguiente algoritmo va a ordenar las&lt;br/&gt;letras de cada una de las palabras&lt;br/&gt;leídas desde un archivo de texto (.txt),&lt;br/&gt;y posteriormente, el conjunto de &lt;br/&gt;todas las palabras (Ambas ordenaciones&lt;br/&gt;según el código ASCII)&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</string>
+     <string>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;El siguiente algoritmo va a ordenar las letras&lt;br/&gt;de cada una de las palabras leídas desde un&lt;br/&gt;archivo de texto (.txt), y posteriormente, &lt;br/&gt;el conjunto de todas las palabras (Ambas &lt;br/&gt;ordenaciones según el código ASCII)&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</string>
+    </property>
+    <property name="alignment">
+     <set>Qt::AlignCenter</set>
     </property>
    </widget>
    <widget class="QTextEdit" name="timesText">
@@ -497,6 +510,11 @@
       <height>161</height>
      </rect>
     </property>
+    <property name="font">
+     <font>
+      <family>Rockwell Nova</family>
+     </font>
+    </property>
     <property name="readOnly">
      <bool>true</bool>
     </property>
@@ -509,6 +527,11 @@
       <width>171</width>
       <height>23</height>
      </rect>
+    </property>
+    <property name="font">
+     <font>
+      <family>Rockwell Nova</family>
+     </font>
     </property>
     <property name="cursor">
      <cursorShape>PointingHandCursor</cursorShape>
@@ -526,6 +549,11 @@
       <height>16</height>
      </rect>
     </property>
+    <property name="font">
+     <font>
+      <family>Rockwell Nova</family>
+     </font>
+    </property>
     <property name="text">
      <string>Tiempos de ejecución:</string>
     </property>
@@ -539,6 +567,11 @@
       <height>23</height>
      </rect>
     </property>
+    <property name="font">
+     <font>
+      <family>Rockwell Nova</family>
+     </font>
+    </property>
     <property name="cursor">
      <cursorShape>PointingHandCursor</cursorShape>
     </property>
@@ -549,14 +582,23 @@
    <widget class="QLabel" name="descripcion_2">
     <property name="geometry">
      <rect>
-      <x>560</x>
-      <y>80</y>
-      <width>381</width>
-      <height>41</height>
+      <x>500</x>
+      <y>70</y>
+      <width>501</width>
+      <height>51</height>
      </rect>
     </property>
+    <property name="font">
+     <font>
+      <family>Rockwell Nova</family>
+      <pointsize>12</pointsize>
+     </font>
+    </property>
     <property name="text">
-     <string>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;El siguiente algoritmo va a ordenar las letras de cada una de las palabras&lt;br/&gt;introducidas, y posteriormente, el conjunto de todas las palabras &lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</string>
+     <string>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;El siguiente algoritmo  va a procesar una imagen selecciona,&lt;br/&gt;pasandola a blanco y negro.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</string>
+    </property>
+    <property name="alignment">
+     <set>Qt::AlignCenter</set>
     </property>
    </widget>
    <widget class="QPushButton" name="runButton2">
@@ -567,6 +609,11 @@
       <width>151</width>
       <height>23</height>
      </rect>
+    </property>
+    <property name="font">
+     <font>
+      <family>Rockwell Nova</family>
+     </font>
     </property>
     <property name="cursor">
      <cursorShape>PointingHandCursor</cursorShape>
@@ -587,6 +634,11 @@
       <height>211</height>
      </rect>
     </property>
+    <property name="font">
+     <font>
+      <family>Rockwell Nova</family>
+     </font>
+    </property>
     <property name="readOnly">
      <bool>true</bool>
     </property>
@@ -596,9 +648,14 @@
      <rect>
       <x>410</x>
       <y>190</y>
-      <width>121</width>
+      <width>131</width>
       <height>16</height>
      </rect>
+    </property>
+    <property name="font">
+     <font>
+      <family>Rockwell Nova</family>
+     </font>
     </property>
     <property name="text">
      <string>Tiempos de ejecución:</string>
@@ -650,6 +707,11 @@
       </disabled>
      </palette>
     </property>
+    <property name="font">
+     <font>
+      <family>Rockwell Nova</family>
+     </font>
+    </property>
     <property name="cursor">
      <cursorShape>PointingHandCursor</cursorShape>
     </property>
@@ -679,6 +741,11 @@
       <height>13</height>
      </rect>
     </property>
+    <property name="font">
+     <font>
+      <family>Rockwell Nova</family>
+     </font>
+    </property>
     <property name="text">
      <string>Media:</string>
     </property>
@@ -704,6 +771,11 @@
       <width>91</width>
       <height>16</height>
      </rect>
+    </property>
+    <property name="font">
+     <font>
+      <family>Rockwell Nova</family>
+     </font>
     </property>
     <property name="text">
      <string/>
@@ -772,6 +844,11 @@
       <height>16</height>
      </rect>
     </property>
+    <property name="font">
+     <font>
+      <family>Rockwell Nova</family>
+     </font>
+    </property>
     <property name="text">
      <string>Imagen original:</string>
     </property>
@@ -785,6 +862,11 @@
       <height>16</height>
      </rect>
     </property>
+    <property name="font">
+     <font>
+      <family>Rockwell Nova</family>
+     </font>
+    </property>
     <property name="text">
      <string>Imagen procesada:</string>
     </property>
@@ -796,7 +878,7 @@
      <x>0</x>
      <y>0</y>
      <width>1141</width>
-     <height>21</height>
+     <height>23</height>
     </rect>
    </property>
   </widget>
